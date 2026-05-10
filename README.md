@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy Jordi 👋
 
-<!--
-**jhprogram76-lgtm/jhprogram76-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me apasiona la **seguridad ofensiva** y la infraestructura de redes. Actualmente estoy enfocado en profundizar mis conocimientos en Pentesting y defensa de redes, combinando la potencia de **Python** con los fundamentos de **Cisco**.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Python (enfocado en scripts de seguridad).
+- **Redes:** TCP/IP, Protocolos de enrutamiento, Análisis de tráfico (Wireshark).
+- **Sistemas:** Linux (Kali, Ubuntu).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Certificaciones
+- **Cisco Networking Basics** (Networking Academy).
+
+### 📂 Proyectos Destacados
+- [Network-Security-Toolkit]: Herramientas de escaneo y reconocimiento desarrolladas en Python.
+
+---
+📫 **¿Cómo contactarme?**
+- LinkedIn https://www.linkedin.com/in/jordi-hernansanch-baab55402
+
